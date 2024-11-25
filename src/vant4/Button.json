@@ -179,7 +179,8 @@
       "description": "Triggered when the button is clicked and the button status is not loaded or disabled",
       "params": "event: MouseEvent",
       "description_zh": "点击按钮，且按钮状态不为加载或禁用时触发",
-      "value": ""
+      "value": "",
+      "required": true
     },
     {
       "name": "touchstart",

@@ -115,7 +115,8 @@
       "description": "Submit the form, which is equivalent to the effect of clicking the submit button",
       "params": "-",
       "description_zh": "提交表单，与点击提交按钮的效果等价",
-      "value": ""
+      "value": "",
+      "required": true
     },
     {
       "name": "getValues",
