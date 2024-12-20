@@ -17,12 +17,13 @@
       "value": [
         "large",
         "small",
-        "mini"
+        "mini",
+        "normal"
       ],
-      "description": "Size, optionally 'large' 'small' mini",
+      "description": "按钮尺寸，可选值为 normal large small mini",
       "default": "normal",
       "type": "string",
-      "description_zh": "尺寸，可选值为 `large` `small` mini"
+      "description_zh": "按钮尺寸，可选值为 normal large small mini"
     },
     "text": {
       "value": "",
@@ -36,7 +37,8 @@
       "description": "Button color, support for passing in 'linear-gradient' gradient",
       "default": "-",
       "type": "string",
-      "description_zh": "按钮颜色，支持传入 `linear-gradient` 渐变色"
+      "description_zh": "按钮颜色，支持传入 `linear-gradient` 渐变色",
+      "version": "1.0.0"
     },
     "icon": {
       "value": "",
