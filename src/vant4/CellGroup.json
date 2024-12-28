@@ -39,7 +39,8 @@
     }
   ],
   "suggestions": [
-    "van-cell"
+    "van-cell",
+    "van-field"
   ],
   "link": "https://vant-docs.netlify.app/#/en-US/cell",
   "link_zh": "https://vant-docs.netlify.app/#/zh-CN/cell"

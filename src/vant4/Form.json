@@ -216,7 +216,8 @@
       "description": "Triggered when the form is submitted and validated",
       "params": "values: object",
       "description_zh": "提交表单且验证通过后触发",
-      "value": ""
+      "value": "",
+      "required": true
     },
     {
       "name": "failed",
