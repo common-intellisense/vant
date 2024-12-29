@@ -75,7 +75,7 @@
       "value": "",
       "description": "Type attribute of the native button tag",
       "default": "button",
-      "type": "string",
+      "type": "submit / button / reset",
       "description_zh": "原生 button 标签的 type 属性"
     },
     "block": {

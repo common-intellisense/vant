@@ -10,7 +10,7 @@
       "description_zh": "当前输入的值"
     },
     "label": {
-      "value": "",
+      "value": "标签",
       "description": "Enter the text to the left of the box",
       "default": "-",
       "type": "string",
@@ -56,7 +56,7 @@
       "description_zh": "输入的最大字符数"
     },
     "placeholder": {
-      "value": "",
+      "value": "请输入",
       "description": "Input box placeholder prompt text",
       "default": "-",
       "type": "string",
@@ -273,8 +273,8 @@
       "type": "string",
       "description_zh": "图标类名前缀，等同于 Icon 组件的 [class-prefix 属性](https://vant-docs.netlify.app/#/zh-CN/icon#props)"
     },
-    "rules": {
-      "value": "",
+    ":rules": {
+      "value": "[{ required: true, message: '请填写$1' }]",
       "description": "For details about the form validation rules, see [Form Component](#/en-CN/form#rule-shu-ju-jie-gou)",
       "default": "-",
       "type": "FieldRule[]",
